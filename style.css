@@ -8,8 +8,7 @@
 /* Smooth Scroll*/
 html{
     scroll-behavior: smooth;
-    box-sizing: border-box;
-   
+    box-sizing: border-box; 
 }
 /*custom scrollbar*/
 ::-webkit-scrollbar{
