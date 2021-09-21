@@ -9,7 +9,7 @@
 html{
     scroll-behavior: smooth;
     box-sizing: border-box;
-    -webkit-font-smoothing: antialiased;
+   
 }
 /*custom scrollbar*/
 ::-webkit-scrollbar{
