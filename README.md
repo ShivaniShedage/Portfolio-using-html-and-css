@@ -1,5 +1,8 @@
 # Portfolio using html and css
 
-![Screenshot (555)](https://user-images.githubusercontent.com/88190573/134160059-f3ddca1a-32ca-4a47-94a2-ab567fffa0f2.png)
 
-![Screenshot (556)](https://user-images.githubusercontent.com/88190573/134160163-33b62cc8-342f-4220-be29-1f0dd74f6847.png)
+![Screenshot (796)](https://user-images.githubusercontent.com/88190573/156117344-5f57c316-1e07-4baa-b1bd-fb58744e9f53.png)
+
+![Screenshot (797)](https://user-images.githubusercontent.com/88190573/156117377-ff2c585f-9778-4034-8519-d876c180e0fd.png)
+
+<hr>
