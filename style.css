@@ -85,6 +85,7 @@ main::-webkit-scrollbar{
     font-family:Verdana, Geneva, Tahoma, sans-serif;
     width:100%;
     border-bottom:1.5px solid rgb(255,255,255,0.30); 
+    align-content: center;
 }
 .navbar> h1{
    font-size: 25px;
@@ -99,7 +100,7 @@ main::-webkit-scrollbar{
     text-decoration: none; 
     color:black;
     vertical-align: middle; 
-    margin-top:10px;  
+      
 }
 .navigationmenu> a:hover{
     transition: ease-in-out 300ms;
