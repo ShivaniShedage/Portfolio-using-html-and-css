@@ -130,6 +130,7 @@ main::-webkit-scrollbar{
 .profileinfo> h1{
     font-size: 40px;
     margin:10px;
+    letter-spacing: 1px;
 }
 .profileinfo{
     font-family: 'Poppins', sans-serif;
